@@ -13,6 +13,7 @@ I’m using it to keep track of my notes, cheat sheets, practice questions, and 
 - [Practice Questions](./practice-questions) — Self-made Q&A for exam prep.
 - [Projects](./projects) — Hands-on AWS projects with step-by-step guides.
 - [Resources](./resources) — Useful links, docs, and tutorials.
+-[Certificates](./certificates) — certifications relating to my aws journey. 
 
 ---
 
