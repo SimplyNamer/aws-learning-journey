@@ -10,10 +10,10 @@ I’m using it to keep track of my notes, cheat sheets, practice questions, and 
 ## 📚 Contents
 - [Notes](./notes) — Detailed study notes on AWS services.
 - [Cheat Sheets](./cheat-sheets) — Quick reference guides.
-- [Practice Questions](./practice-questions) — Self-made Q&A for exam prep.
+- [Practice Questions](./practice-questions) — Q&A for exam prep.
 - [Projects](./projects) — Hands-on AWS projects with step-by-step guides.
 - [Resources](./resources) — Useful links, docs, and tutorials.
--[Certificates](./certificates) — certifications relating to my aws journey. 
+- [Certificates](./certificates) — certifications relating to my aws journey. 
 
 ---
 
