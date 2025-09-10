@@ -9,6 +9,7 @@ I’m using it to keep track of my notes, cheat sheets, practice questions, and 
 
 ## 📚 Contents
 - [Notes](./notes) — Detailed study notes on AWS services.
+- [Study Mind Map](./study-mind-map) — Mind map created with markmap to help study 
 - [Cheat Sheets](./cheat-sheets) — Quick reference guides.
 - [Practice Questions](./practice-questions) — Q&A for exam prep.
 - [Projects](./projects) — Hands-on AWS projects with step-by-step guides.
